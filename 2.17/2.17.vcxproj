@@ -153,6 +153,10 @@
     <ClCompile Include="23_This.cpp" />
     <ClCompile Include="24_Chaning.cpp" />
     <ClCompile Include="25_Const.cpp" />
+    <ClCompile Include="26_Static.cpp" />
+    <ClCompile Include="27_ConstClass.cpp" />
+    <ClCompile Include="28_AddOperator.cpp" />
+    <ClCompile Include="29_CastOperator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
