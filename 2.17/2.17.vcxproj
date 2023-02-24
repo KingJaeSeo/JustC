@@ -157,6 +157,14 @@
     <ClCompile Include="27_ConstClass.cpp" />
     <ClCompile Include="28_AddOperator.cpp" />
     <ClCompile Include="29_CastOperator.cpp" />
+    <ClCompile Include="30_Inherit.cpp" />
+    <ClCompile Include="31_Inherit2.cpp" />
+    <ClCompile Include="32_Multi_Inherit.cpp" />
+    <ClCompile Include="33_Compatible.cpp" />
+    <ClCompile Include="34_Override.cpp" />
+    <ClCompile Include="35_Virtual.cpp" />
+    <ClCompile Include="36_Virtual2.cpp" />
+    <ClCompile Include="37_Override2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

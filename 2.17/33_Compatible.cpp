@@ -25,7 +25,7 @@ public:
     }
 };
 
-int main()
+int main33()
 {
     /*
     상속클래스의 호환
