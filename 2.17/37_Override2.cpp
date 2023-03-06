@@ -111,7 +111,7 @@ public:
     }
 
 };
-int main()
+int main37()
 {
     /*
     override

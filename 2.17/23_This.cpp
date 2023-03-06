@@ -20,7 +20,7 @@ public:
 };
 
 
-int main44()
+int main23()
 {
 	/*
 	this Æ÷ÀÎÅÍ

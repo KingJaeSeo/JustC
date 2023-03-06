@@ -146,6 +146,7 @@
     <ClCompile Include="16_Constructor.cpp" />
     <ClCompile Include="17_Hidden.cpp" />
     <ClCompile Include="18_Destructor.cpp" />
+    <ClCompile Include="48_UniquePtr.cpp" />
     <ClCompile Include="19_StaticDynamic.cpp" />
     <ClCompile Include="20_CopyConstructor.cpp" />
     <ClCompile Include="21_GetterSetter.cpp" />
@@ -165,6 +166,27 @@
     <ClCompile Include="35_Virtual.cpp" />
     <ClCompile Include="36_Virtual2.cpp" />
     <ClCompile Include="37_Override2.cpp" />
+    <ClCompile Include="38_VirtualDestroy.cpp" />
+    <ClCompile Include="39_Abstract.cpp" />
+    <ClCompile Include="40_Abstract2.cpp" />
+    <ClCompile Include="41_VirtualClass.cpp" />
+    <ClCompile Include="42_NestedClass.cpp" />
+    <ClCompile Include="43_FuncTemplate.cpp" />
+    <ClCompile Include="44_ClassTemplate.cpp" />
+    <ClCompile Include="45_NameSpace.cpp" />
+    <ClCompile Include="46_NameSpace2.cpp" />
+    <ClCompile Include="47_String.cpp" />
+    <ClCompile Include="49_SharedPtr.cpp" />
+    <ClCompile Include="50_Circular.cpp" />
+    <ClCompile Include="51_WeakPtr.cpp" />
+    <ClCompile Include="52_BytePadding.cpp" />
+    <ClCompile Include="53_Lamdacpp.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Player.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
